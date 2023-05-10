@@ -1,0 +1,146 @@
+
+body{
+    padding: 5px;
+    background-color: #f3f3f3f3 !important;
+    font-family: Roboto, sans-serif !important;
+    font-size: 16px !important;
+    
+}
+.header h2{
+    font-size: 1.875rem;
+    font-weight: 550;
+}
+p{
+    font-size: 0.875rem !important;
+    line-height: 1 !important;
+    font-weight: 400 !important;
+}
+.breadcrumb-item{
+    font-size: 0.855rem !important;
+    line-height: 1 !important;
+}
+.breadcrumb-item a{
+    text-decoration: none;
+}
+.icon{
+    width: 40px;
+    height: 40px;
+    
+}
+.icon i{
+    color: #686868;
+}
+.generate{
+    color: black !important;
+    background-color: #4d83ff !important;
+    border-radius: 0.1875rem;
+    height: 40px !important;
+    width: 148px !important;
+}
+.btn{
+    border-radius: 0.1875rem !important;
+    font-size: 0.875rem !important;
+    line-height: 1 !important;
+    font-weight: 400 !important;
+}
+li {
+    display: list-item !important;
+    text-align: -webkit-match-parent !important;
+}
+.nav-item button{
+    color: black !important;
+    padding: 16px 24px 3.2px;
+    font-size: 14px !important;
+}
+.nav-tabs .nav-item .nav-link.active {
+    border: 0;
+    border-bottom: 3px solid #5646ff;
+    color: #4d83ff !important;
+}
+.nav-tabs .nav-item .nav-link {
+    border: 0;
+    background: transparent;
+}
+.tab-content{
+    height: 82px;
+}
+.tab-content div{
+    height: 100%;
+    width: 100%;
+}
+.tab-content .card{
+    padding: 12px;
+    border-radius: 0;
+    border: 1px solid #f3f3f3;
+}
+.fa-3x{
+    font-size: 2em !important;
+}
+.fa-calendar-check{
+    color:rgb(13, 110, 253);
+}
+.fa-dollar-sign{
+    color:rgb(220, 53, 69);
+}
+.fa-eye{
+    color: green;
+}
+.fa-download{
+    color: rgb(255, 193, 7);
+}
+.fa-flag{
+    color:rgb(220, 53, 69);
+}
+
+.item small{
+    padding: 6PX 12px;
+    color: #686868 !important
+}
+
+.btn-check:checked + .btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check) + .btn:active {
+    border: 0px;
+}
+
+.dropdown h5{
+    font-size: 1.25rem !important;
+    font-weight: 550 !important;
+}
+.content h5{
+    padding-left: 12px;
+    font-size: 1.25rem !important;
+    font-weight: 550 !important;
+}
+.card .card-title {
+    color: #4a4a4a !important;
+    margin-bottom: 1.5rem !important;
+    text-transform: uppercase !important;
+    font-size: .875rem !important;
+    font-weight: bold !important;
+}
+.chart-sales .chart{
+    width: 58% !important;
+}
+.chart-sales .sales{
+    width: 42% !important ;
+}
+.chart-sales span {
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 7px;
+}
+.table table tbody tr td {
+    border: 1px solid rgba(151, 151, 151, 0.18);
+    color: #08113b;
+    white-space: nowrap;
+    font-weight: 300 !important;
+    padding: 1.1rem 0.9375rem;
+}
+.table table thead tr th{
+
+    height: 65px !important;
+    padding-bottom: 20px;
+    padding-right: 16px;
+    padding-left: 16px;
+}
